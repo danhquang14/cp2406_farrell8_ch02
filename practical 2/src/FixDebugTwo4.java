@@ -1,7 +1,7 @@
 import javax.swing.*;
 
 public class FixDebugTwo4 {
-    public static void main(String[] args)
+    public static void main(String args[])
     {
         String costString;
         double cost;
